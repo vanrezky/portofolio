@@ -1,0 +1,13 @@
+<template>
+    <section class="my-container py-16 px-6 max-w-4xl mx-auto" id="about">
+        <h2 class="text-3xl font-bold mb-4">About Me</h2>
+        <div class="space-y-2 text-justify">
+            <p class="text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">Hi, <strong>I'm Van Rezky Sadewa Nababan</strong>, a backend engineer and tech entrepreneur with a strong passion for building scalable, high-performance web applications. I specialize in architecting systems that integrate seamlessly with <strong>third-party APIs</strong>—including <strong>flight</strong>, <strong>hotel</strong>, <strong>train (KAI)</strong>, <strong>insurance</strong>, <strong>eSIM</strong>, and <strong>payment gateways</strong>.</p>
+            <p class="text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">Currently, I'm developing a comprehensive <strong>booking platform</strong> that brings together these services under a unified backend infrastructure. My work revolves around crafting robust APIs, optimizing databases, and ensuring secure, efficient transaction flows.</p>
+            <p class="text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">While my primary focus is backend development, I also build and manage admin interfaces. For complex or custom admin panels, I use <strong>Inertia.js with Vue</strong> to maintain a modern and reactive interface. For simpler projects where speed is a priority, I rely on <strong>FilamentPHP</strong> to streamline development without sacrificing usability.</p>
+            <p class="text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">Always eager to learn, I’ve explored <strong>.NET Core</strong>, <strong>Go</strong>, and <strong>Node.js</strong>, comparing their strengths to expand my perspective beyond PHP. I also embrace DevOps tools like <strong>Docker</strong>, using <strong>PHP-FPM</strong>, <strong>FrankenPHP</strong>, and <strong>Redis</strong> to create robust environments—even on limited internet infrastructure.</p>
+            <p class="text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">I’m also the founder of <strong>angkasaDev</strong>, a digital agency where we bring smart, efficient solutions to life—focusing on clean architecture, performance, and scalable systems. We aim to empower businesses through technology with a practical, no-bloat approach to software development.</p>
+            <p class="text-lg leading-relaxed text-zinc-700 dark:text-zinc-300">Whether I’m experimenting with new tech on my <strong>Mac M1</strong>, building reusable components, or documenting APIs separately for maintainability, my focus remains the same: <strong>delivering real value through smart code.</strong></p>
+        </div>
+    </section>
+</template>
